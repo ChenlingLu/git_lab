@@ -18,15 +18,15 @@ git status
 
 
 ### track file
-```
+``
 git add .
-```
+``
 
 
 ### commit file
-```
+``
 git commit -m 'comment'
-```
+``
 
 fix a bug
 
@@ -35,9 +35,9 @@ add a feature
 
 ### Add repo at github
 
-```
+``
 git remote add origin https://github.com/ChenlingLu/git_lab.git
-```
+``
 
 
 ### github desktop
