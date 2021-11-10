@@ -38,3 +38,8 @@ add a feature
 ```
 git remote add origin https://github.com/ChenlingLu/git_lab.git
 ```
+
+
+### github desktop
+
+It is stupid
